@@ -1,0 +1,24 @@
+body{
+    background-image: url("./209037.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p{
+    color: gold;
+    font-size: large;
+    text-align: center;
+}
+h1{
+    color: gold;
+    font-family: "Press Start 2P";
+    text-align: center;
+}
+img{
+    display: block;
+    margin: auto;
+    border-radius: 2px 16px;
+}
+button{
+    background-color: gold;
+    
+}

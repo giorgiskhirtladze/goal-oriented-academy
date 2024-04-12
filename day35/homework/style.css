@@ -1,0 +1,28 @@
+
+.main{
+    width: 600px;
+    height: 500px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    border: 2px solid black;
+    border-radius: 15px;
+}
+.div{
+    height: 120px;
+    width: 600px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+}
+.div2{
+    display: flex;
+    width: 600px;
+    height: 120px;
+}
+img{
+    border-radius: 15px;
+}
+.div3{
+    width: 150px;
+}

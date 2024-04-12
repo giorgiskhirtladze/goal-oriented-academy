@@ -1,0 +1,25 @@
+div{
+    border-radius: 30px;
+    width: 600px;
+    height: 600px;
+    background-color: black;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: block;
+    text-align: center;
+    font-family: "Rubik Broken Fax";
+}
+label{
+    color: gold;
+    font-size: larger;
+    font-family: "Rubik Broken Fax";
+}
+input{
+    background-color: gold;
+    font-family: "Rubik Broken Fax";
+}
+body{
+    background-image: url("209037.gif");
+}

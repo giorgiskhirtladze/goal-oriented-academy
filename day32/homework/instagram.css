@@ -1,0 +1,65 @@
+p{
+    color: rgba(0, 0, 0, 0.57);
+    text-align: center;
+    font-family: "Roboto";
+    
+}
+h1{
+    text-align: center;
+    font-family: "Dancing Script";
+}
+div{
+    border-radius: 30px;
+    width: 400px;
+    height: 650px;
+    background-color: rgb(214, 214, 214);
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: block;
+    text-align: center;
+    font-family: "Rubik Broken Fax";
+}
+button{
+    background-color: rgb(81, 81, 214);
+    width: 250px;
+    height: 40px;
+    border-radius: 10px;
+    color: white;
+    font-family: "Roboto";
+}
+form{
+    display: block;
+    margin-bottom: 5px;
+    
+    
+}
+input{
+    border-radius: 5px;
+    width: 250px;
+    height: 40px;
+    
+}
+.insta{
+    font-size: small;
+    color: rgba(0, 0, 0, 0.693);
+    font-family: "Roboto";
+}
+span{
+    color: blue;
+    font-family: "Roboto";
+}
+.sighn{
+    background-color: rgb(81, 81, 197);
+    width: 250px;
+    height: 40px;
+    border-radius: 10px;
+    color: white;
+    font-family: "Roboto";
+}
+.gio{
+    font-size: small;
+    color: rgba(0, 0, 0, 0.693);
+    font-family: "Roboto";
+}

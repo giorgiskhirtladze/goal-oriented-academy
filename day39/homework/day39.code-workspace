@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../../Downloads/blog-preview-card-main"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "day39"
+	}
+}

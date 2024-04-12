@@ -1,0 +1,32 @@
+body{
+    background-image: url("gif.gif");
+}
+h1{
+    text-align: center;
+    color: green;
+}
+div{
+    background-color: black;
+    width: 200px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    
+}
+.contact{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+button{
+    background-color: black;
+    color: green;
+    text-align: center;
+    margin: 0 auto;
+    border-radius: 0;
+    
+}

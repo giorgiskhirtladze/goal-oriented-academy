@@ -1,0 +1,24 @@
+div{
+    background-color: black;
+    color: white;
+    height: 220px;
+    width: 225px;
+    border-radius: 50px;
+    border: 10px solid green;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: larger;
+    
+}
+body{
+    background-image: url("gif.gif");
+}
+a{
+    background-color: green;
+    color: black;
+    font-size: large;
+    border-radius: 0;
+    text-align: left;
+}
