@@ -16,11 +16,11 @@
 // console.log(num1 / num2)
 
 //#3
-function evenSum(){
-    start = 20
-    end = 40
-    for(let i = start; i <= end; i+=2){
-        evenSum += i
-    }
-}
+// function evenSum(){
+//     start = 20
+//     end = 40
+//     for(let i = start; i <= end; i+=2){
+//         evenSum += i
+//     }
+// }
 
