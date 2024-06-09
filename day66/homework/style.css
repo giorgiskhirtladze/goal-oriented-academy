@@ -1,0 +1,151 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.header{
+    height: 80px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.child{
+    height: 80px;
+    width: 800px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.child1{
+    height: 80px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.bank{
+    height: 70px;
+}
+nav, ul, li{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    font-family: "Roboto";
+
+}
+.openacc{
+    height: 35px;
+    width: 170px;
+    background-color: orangered;
+    border-radius: 20px;
+}
+.personalbanking{
+    height: 350px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+
+}
+.child2{
+    width: 650px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+}
+.child3{
+    width: 650px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    gap: 40px;
+    
+}
+.img1{
+    height: 250px;
+    width: 250px;
+    border-radius: 10px;
+}
+.first{
+    margin-left: 90px;
+}
+h1{
+    margin-left: 90px;
+    font-size: 50px;
+    font-family: "Roboto";
+}
+.parent{
+    height: 400px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    background-color: rgb(209, 206, 201);
+}
+.children{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    border: 4px solid orangered;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+.img2{
+    height: 100px;
+    width: 100px;
+}
+.SpecialOffers{
+    height: 60px;
+    width: 100%;
+    background-color: rgb(209, 206, 201);
+}
+.parent1{
+    height: 200px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.child4{
+    height: 200px;
+    width: 800px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(209, 206, 201);
+    gap: 30px;
+
+}
+.img3{
+    height: 150px;
+    width: 150px;
+    font-family: "Roboto";
+}
+.imgdiv{
+    height: 200px;
+    width: 150px;
+    
+}
+.textdiv{
+    height: 150px;
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(209, 206, 201);
+}
+p{
+    font-family: "Roboto";
+}
+h2{
+    font-family: "Roboto";
+}
+h3{
+    font-family: "Roboto";
+}
