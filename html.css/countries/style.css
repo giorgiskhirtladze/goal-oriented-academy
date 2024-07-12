@@ -1,0 +1,77 @@
+body{
+    background-image: url("nature.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    background-blend-mode: darken;
+    background-color: rgba(0, 0, 0, 0.468);
+}
+.div{
+    display: flex;
+    gap: 700px;
+    height: 50px;
+    width: 100%;
+
+
+}
+ul{
+    display: flex;
+    flex-direction: row;
+    display: flex;
+    gap: 70px;
+    
+
+      
+}
+li{
+    list-style-type: none;
+    font-family: "Roboto";
+    font-size: larger;
+    color: wheat;
+
+
+}
+button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100px;
+    background-color: rgb(244, 19, 57);
+    height: 40px;
+    border-radius: 20px;
+}
+img{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+input{
+    width: 500px;
+    height: 50px;
+    background-color: rgb(68, 67, 67);
+    border-radius: 30px;
+    box-shadow: none;
+    font-size: 20px;
+    font-size: larger;
+    font-family: "Roboto";
+}
+.div1{
+    justify-content: center;
+    align-items: center;
+    margin: 70px;
+    height: 300px;
+    width: 500px;
+}
+h1{
+    color: white;
+    font-size: 40px;
+    font-family: "Roboto";
+}
+.div2{
+    width: 170px;
+    border: 3px solid black;
+    height: 50px;
+    gap: 0;
+}

@@ -1,0 +1,116 @@
+body{
+    background-image: url("./gettyimages-1789034937.avif");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    background-blend-mode: darken;
+    background-color: rgba(0, 0, 0, 0.468);
+}
+.div{
+    display: flex;
+    flex-direction: row;
+    height: 120px;
+    width: 100%;
+    justify-content: space-between;
+}
+ul li{
+    display: flex;
+    font-family: "Roboto";
+    font-weight: bold;
+    color: white;
+
+}
+ul{
+    gap: 100px;
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    padding: 0;
+    text-align: right;
+}
+li{
+    margin: 10px;
+    font-size: larger;
+    font-family: "Roboto";
+    font-size: large;
+    color: white;
+
+}
+.head{
+    margin: 0px;
+    font-family: "Roboto";
+    font-size: 70px;
+    color: white;
+
+
+}
+.main{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: 530px;
+}
+.card{
+    width: 200px;
+    height: 230px;
+    border-radius: 10px;
+    border: 2px solid black;
+    
+}
+.geo{
+    display: flex;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+}
+.div2{
+    display: flex;
+    justify-content: right;
+    width: 700px;
+    border: 2px solid black;
+
+
+}
+.card1{
+    width: 230px;
+    height: 230px;
+    border-radius: 10px;
+    border: 2px solid black;
+
+
+
+}
+.card2{
+    width: 230px;
+    height: 230px;
+    border-radius: 10px;
+    border: 2px solid black;
+
+
+}
+.card3{
+    width: 230px;
+    height: 230px;
+    border-radius: 10px;
+    border: 2px solid black;
+
+
+}
+.card4{
+    width: 230px;
+    height: 230px;
+    border-radius: 10px;
+    border: 2px solid black;
+
+
+}
+img{
+    border-radius: 10px;
+    width: 230px;
+  
+}
+.one{
+    height: 100px;
+    width: 90px;
+}

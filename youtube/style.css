@@ -1,0 +1,104 @@
+body{
+    background-color: white;
+    gap: 0;
+}
+.div{
+    height: 600px;
+    width: 1450px;
+    display: flex;
+    flex-direction: row;
+    gap: 0;
+    
+}
+.div1{
+    height: 50px;
+    width: 1445px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.div2{
+    height: 40px;
+    width: 300px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    background-color: rgb(186, 185, 184);
+    gap: 20px;
+}
+.div3{
+    height: 60px;
+    width: 300px;
+    background-color: rgb(186, 185, 184);
+    border-radius: 10px;
+}
+.div5{
+    height: 50px;
+    width: 300px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+button{
+    height: 40px;
+    border-radius: 20px;
+    width: 80px;
+}
+input{
+    width: 600px;
+    height: 40px;
+    border-radius: 20px;
+}
+.div6{
+    width: 1100px;
+    height: 600px;
+}
+
+.div7{
+    height: 600px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+
+}
+.div8{
+    width: 1100px;
+    height: 600px;
+
+}
+.div9{
+    height: 90px;
+    width: 290px;
+    display: flex;
+
+    
+}
+.img{
+    border-radius: 20px;
+    height: 200px;
+    width: 290px;
+}
+.img1{
+    border-radius: 40px;
+    border: 1px solid black;
+
+
+}
+.div12{
+    height: 90px;
+    width: 40px;
+
+
+}
+p{
+    font-family: "Roboto";
+}
+h2{
+    font-family: "Roboto";
+}
+span{
+    color: rgb(58, 58, 58);
+    font-size: 15px;
+}

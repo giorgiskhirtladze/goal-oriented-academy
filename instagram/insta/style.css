@@ -1,0 +1,194 @@
+
+.div{
+    height: 700px;
+    width: 1460px;
+    display: flex;
+    
+
+
+}
+.div1{
+    height: 300px;
+    width: 400px;
+    background-color: rgb(207, 203, 203);
+    border-radius: 5px;
+
+}
+.div2{
+    height: 400px;
+    width: 400px;
+    background-color: rgb(207, 203, 203);
+    border-radius: 5px;
+
+}
+.div3{
+    height: 40px;
+    width: 400px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+.img1{
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    margin-left: 150px;
+    border: 2px solid #ff0000;
+}
+h3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.div4{
+    height: 50px;
+    width: 400px;
+    display: flex;
+    gap: 30px;
+
+}
+.div5{
+    width: 100px;
+    height: 60px;
+    display: flex;
+    gap: 0;
+}
+.div6{
+    width: 400px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.div7{
+    height: 60px;
+    width: 1060px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+input{
+    width: 250px;
+    height: 40px;
+    border-radius: 5px;
+
+}
+.div8{
+    height: 60px;
+    width: 250px;
+    display: flex;
+    align-items: center;
+}
+.div9{
+    height: 60px;
+    width: 325px;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+button{
+    height: 50px;
+    width: 225px;
+    background-image: url("OIP\ \(1\).jpg");
+    border-radius: 5px;
+}
+.div10{
+    height: 60px;
+    width: 325px;
+    display: flex;
+    flex-direction: column;
+
+}
+.div0{
+    width: 400px;
+    height: 700px;
+}
+.diva{
+    width: 1060px;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+.divb{
+    height: 50px;
+    width: 1060px;
+    display: flex;
+    justify-content: space-between;
+}
+.divc{
+    height: 700px;
+    width: 1060px;
+    
+    
+}
+.img2{
+    height: 20px;
+    width: 20px;
+}
+.divg{
+    width: 100px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+.dive{
+    height: 100px;
+    width: 1060px;
+    display: flex;
+}
+.divi{
+    width: 200px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img3{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    border: 2px solid #ff0000;
+}
+.small{
+    height: 50px;
+    width: 1060px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.big{
+    height: 400px;
+    width: 1060px;
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+}
+.divs{
+    height: 400px;
+    width: 300px;
+}
+.img4{
+    border-radius: 5px;
+}
+.img5{
+    height: 40px;
+    width: 40px;
+    border-radius: 40px;
+    border: 2px solid #ff0000;
+}
+p{
+    font-family: "Roboto";
+}
+h3{
+    font-family: "Roboto";
+
+}
+h2{
+    font-family: "Roboto";
+}
+span{
+    font-family: "Dancing Script";
+    font-size: 30px;
+}
