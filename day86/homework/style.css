@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    flex-direction: column;
+
+}
+.btns{
+    margin-top: 3%;
+}
+.btns button{
+    background-color: rgb(110, 112, 235);
+    border: none;
+    padding: 15px 45px;
+    margin: 0 15px;
+
+}
+img{
+    height: 400px;
+    width: 400px;
+}
+#gallery{
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    border: 40px ridge sienna;
+}
+#currentimg{
+    max-width: 400px;
+    
+    top: 0;
+    left: 0;
+    transition: all 0.5s ease-in-out;
+}
+#currentimg.fade-out{
+    opacity: 0;
+}

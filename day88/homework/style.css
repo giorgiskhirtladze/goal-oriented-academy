@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    padding: 10px 0 0 10px;
+    gap: 10px;
+    background-image:
+    linear-gradient(to bottom, #000 1px, transparant 1px)
+    linear-gradient(to right, #000 1px, transparant 1px);
+    background-size: 50px 50px;
+}
+form{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80px;
+    width: 5rem;
+    border: 1px solid black;
+    padding: 5rem .8rem;
+}
+form samp{
+    cursor: pointer;
+}
+.box-container{
+    display: grid;
+    background-color: #fff;
+}
+.main-box-container{
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: #fff;
+    overflow: hidden;
+    width: 500px;
+    height: 500px;
+}
